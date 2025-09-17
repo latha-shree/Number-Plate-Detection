@@ -129,4 +129,5 @@ Add admin dashboard to view all transactions
 Integrate with Razorpay/UPI for online balance top-up
 
 ![login](https://github.com/latha-shree/Number-Plate-Detection/blob/main/login.png)
+![reg1](https://github.com/latha-shree/Number-Plate-Detection/blob/main/vehicle_reg.png)
 
