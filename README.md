@@ -130,6 +130,7 @@ Integrate with Razorpay/UPI for online balance top-up
 
 ![login](https://github.com/latha-shree/Number-Plate-Detection/blob/main/login.png)
 ![reg1](https://github.com/latha-shree/Number-Plate-Detection/blob/main/vehicle_reg.png)
+![check1](https://github.com/latha-shree/Number-Plate-Detection/blob/main/check_bal1.png)
 ![img1](https://github.com/latha-shree/Number-Plate-Detection/blob/main/upload_image.png)
 ![img2](https://github.com/latha-shree/Number-Plate-Detection/blob/main/upload_image1.png)
 ![img3](https://github.com/latha-shree/Number-Plate-Detection/blob/main/upload_image2.png)
